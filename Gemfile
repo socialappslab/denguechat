@@ -34,7 +34,7 @@ gem "pry"
 # Needed for a smooth upgrade from Rails 3.2 to Rails 4.0
 # http://edgeguides.rubyonrails.org/upgrading_ruby_on_rails.html
 gem 'protected_attributes'
-gem "puma", "2.11.2"
+gem "puma", "5.6.2"
 gem "pundit"
 gem "rack-cors", :require => false
 gem 'rails', "4.2"
